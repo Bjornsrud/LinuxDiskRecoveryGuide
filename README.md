@@ -25,8 +25,8 @@ The goal is to document a **repeatable Linux-based recovery workflow** using wid
 
 The repository currently contains:
 
-- `hard-disk-recovery-guide.md`  
-  A detailed guide describing the full recovery process.
+[hard-disk-recovery-guide.md](https://github.com/Bjornsrud/LinuxDiskRecoveryGuide/blob/main/hard-disk-recovery-guide.md)  
+A detailed guide describing the full recovery process.
 
 Topics include:
 
