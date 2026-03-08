@@ -518,7 +518,7 @@ wc -> count results
 | -> pipe results to next command
 
 ----------------------------------------------------------------------
-21. Delete Entire Directory Trees
+21. Delete Entire Directory Trees when Cleaning up PhotoRec Output
 ----------------------------------------------------------------------
 
 Equivalent to old DOS deltree:
