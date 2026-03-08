@@ -491,7 +491,7 @@ Example result:
 20121231_235944.jpg
 
 ----------------------------------------------------------------------
-20. Useful Linux File Commands
+20. Useful Linux File Commands when Working with Recovered Files
 ----------------------------------------------------------------------
 
 Find files recursively:
@@ -536,25 +536,7 @@ rm -rf directory
 Use -rf carefully.
 
 ----------------------------------------------------------------------
-22. Kubuntu Trash Location
-----------------------------------------------------------------------
-
-Trash directory:
-
-~/.local/share/Trash/
-
-Subdirectories:
-
-files/
-info/
-
-If permissions prevent deletion:
-
-sudo rm -rf ~/.local/share/Trash/files/*
-sudo rm -rf ~/.local/share/Trash/info/*
-
-----------------------------------------------------------------------
-23. Fix File Ownership After Recovery
+22. Fix File Ownership After Recovery
 ----------------------------------------------------------------------
 
 Files created with sudo may belong to root.
@@ -564,7 +546,7 @@ Fix ownership:
 sudo chown -R "$USER":"$USER" ~/recovery
 
 ----------------------------------------------------------------------
-24. Linux Tools vs Commercial Recovery Software
+23. Linux Tools vs Commercial Recovery Software
 ----------------------------------------------------------------------
 
 Commercial tools (Disk Drill, etc.) integrate:
@@ -591,7 +573,7 @@ Advantages of Linux workflow:
 Commercial tools often provide easier interfaces.
 
 ----------------------------------------------------------------------
-25. Recommended Workflow Summary
+24. Recommended Workflow Summary
 ----------------------------------------------------------------------
 
 1. Connect disk
@@ -606,7 +588,7 @@ Commercial tools often provide easier interfaces.
 10. Rename files by EXIF timestamp
 
 ----------------------------------------------------------------------
-26. Final Advice
+25. Final Advice
 ----------------------------------------------------------------------
 
 Successful recovery often involves two phases:
