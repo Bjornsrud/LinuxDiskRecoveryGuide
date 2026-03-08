@@ -108,14 +108,18 @@ If mechanical distress occurs, stop stressing the disk.
 
 List block devices:
 
+```
 lsblk
+```
 
 Example output:
 
+```
 sdb           8:16   0 298.1G  0 disk
 ├─sdb1        8:17   0   200M  0 part
 ├─sdb2        8:18   0 297.3G  0 part
 └─sdb3        8:19   0 619.9M  0 part
+```
 
 Here the disk device is:
 
