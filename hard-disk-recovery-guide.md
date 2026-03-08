@@ -1,4 +1,4 @@
-# Guide: Rescuing and Recovering Data from Old Hard Disks on Linux 1.0
+# Guide: Rescuing and Recovering Data from Old Hard Disks on Linux, v1.0
 
 This guide describes a practical workflow for rescuing data from old hard disks
 using Linux tools such as ddrescue, TestDisk, PhotoRec, find, and exiftool.
